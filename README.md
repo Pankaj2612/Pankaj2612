@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj2612" alt="pankaj2612" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs , Nodejs , Flask**
+- 🌱 I’m currently learning **Nextjs , Reactjs , Nodejs , Flask**
 
 - 📫 How to reach me **sahu94002@gmail.com**
 
